@@ -165,4 +165,3 @@ document.addEventListener('DOMContentLoaded', () => {
     loadCountryOptions();
     loadYearOptions();
 });
-
